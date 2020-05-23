@@ -21,5 +21,8 @@
   "homepage": "https://github.com/stevenkcolin/openSmartContract#readme",
   "dependencies": {
     "@openzeppelin/cli": "^2.8.2"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.0.1"
   }
 }
