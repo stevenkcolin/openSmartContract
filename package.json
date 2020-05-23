@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/stevenkcolin/openSmartContract/issues"
   },
-  "homepage": "https://github.com/stevenkcolin/openSmartContract#readme"
+  "homepage": "https://github.com/stevenkcolin/openSmartContract#readme",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
 }
