@@ -24,6 +24,9 @@
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^3.0.1",
-    "ganache-cli": "^6.9.1"
+    "@openzeppelin/test-environment": "^0.1.4",
+    "chai": "^4.2.0",
+    "ganache-cli": "^6.9.1",
+    "mocha": "^7.2.0"
   }
 }
