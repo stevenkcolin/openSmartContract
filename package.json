@@ -23,6 +23,7 @@
     "@openzeppelin/cli": "^2.8.2"
   },
   "devDependencies": {
-    "@openzeppelin/contracts": "^3.0.1"
+    "@openzeppelin/contracts": "^3.0.1",
+    "ganache-cli": "^6.9.1"
   }
 }
