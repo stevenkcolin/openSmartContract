@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "ooo/Box": [
+      {
+        "address": "0xEfF3a711cc2b6Ff0FB22201226bA420Cb478620D",
+        "kind": "NonProxy",
+        "bytecodeHash": "bbcc57d0eaba68ac541d5afc21ad4a47e086723f5221e0f9ff08260499032556"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
